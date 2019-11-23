@@ -1,6 +1,6 @@
 # FirstConnection
 
-JDBC Derby Database in Java(JAVA Db Driver, SQL Commands) 
+JDBC Derby Database in Java(JAVA DB Driver, SQL Commands) 
 At the end it shows my local database table. With sample lines you can add new users and edit the actual database. 
 
 The main class: 
